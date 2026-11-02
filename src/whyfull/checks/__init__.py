@@ -21,6 +21,7 @@ MODULES = [
     "journald",
     "logs",
     "containers",
+    "podman",
     "packages",
     "kernels",
     "snaps",
